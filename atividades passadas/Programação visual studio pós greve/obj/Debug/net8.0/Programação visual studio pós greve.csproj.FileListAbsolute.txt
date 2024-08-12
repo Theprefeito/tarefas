@@ -1,0 +1,14 @@
+D:\Users\20241170150014\OneDrive - IFRN\Programação visual studio pós greve\bin\Debug\net8.0\Programação visual studio pós greve.exe
+D:\Users\20241170150014\OneDrive - IFRN\Programação visual studio pós greve\bin\Debug\net8.0\Programação visual studio pós greve.deps.json
+D:\Users\20241170150014\OneDrive - IFRN\Programação visual studio pós greve\bin\Debug\net8.0\Programação visual studio pós greve.runtimeconfig.json
+D:\Users\20241170150014\OneDrive - IFRN\Programação visual studio pós greve\bin\Debug\net8.0\Programação visual studio pós greve.dll
+D:\Users\20241170150014\OneDrive - IFRN\Programação visual studio pós greve\bin\Debug\net8.0\Programação visual studio pós greve.pdb
+D:\Users\20241170150014\OneDrive - IFRN\Programação visual studio pós greve\obj\Debug\net8.0\Programação visual studio pós greve.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150014\OneDrive - IFRN\Programação visual studio pós greve\obj\Debug\net8.0\Programação visual studio pós greve.AssemblyInfoInputs.cache
+D:\Users\20241170150014\OneDrive - IFRN\Programação visual studio pós greve\obj\Debug\net8.0\Programação visual studio pós greve.AssemblyInfo.cs
+D:\Users\20241170150014\OneDrive - IFRN\Programação visual studio pós greve\obj\Debug\net8.0\Programação visual studio pós greve.csproj.CoreCompileInputs.cache
+D:\Users\20241170150014\OneDrive - IFRN\Programação visual studio pós greve\obj\Debug\net8.0\Programação visual studio pós greve.dll
+D:\Users\20241170150014\OneDrive - IFRN\Programação visual studio pós greve\obj\Debug\net8.0\refint\Programação visual studio pós greve.dll
+D:\Users\20241170150014\OneDrive - IFRN\Programação visual studio pós greve\obj\Debug\net8.0\Programação visual studio pós greve.pdb
+D:\Users\20241170150014\OneDrive - IFRN\Programação visual studio pós greve\obj\Debug\net8.0\Programação visual studio pós greve.genruntimeconfig.cache
+D:\Users\20241170150014\OneDrive - IFRN\Programação visual studio pós greve\obj\Debug\net8.0\ref\Programação visual studio pós greve.dll

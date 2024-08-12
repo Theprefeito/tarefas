@@ -1,0 +1,14 @@
+D:\Users\20241170150014\OneDrive - IFRN\Visual Studio Outro\bin\Debug\net8.0\Visual Studio Outro.exe
+D:\Users\20241170150014\OneDrive - IFRN\Visual Studio Outro\bin\Debug\net8.0\Visual Studio Outro.deps.json
+D:\Users\20241170150014\OneDrive - IFRN\Visual Studio Outro\bin\Debug\net8.0\Visual Studio Outro.runtimeconfig.json
+D:\Users\20241170150014\OneDrive - IFRN\Visual Studio Outro\bin\Debug\net8.0\Visual Studio Outro.dll
+D:\Users\20241170150014\OneDrive - IFRN\Visual Studio Outro\bin\Debug\net8.0\Visual Studio Outro.pdb
+D:\Users\20241170150014\OneDrive - IFRN\Visual Studio Outro\obj\Debug\net8.0\Visual Studio Outro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150014\OneDrive - IFRN\Visual Studio Outro\obj\Debug\net8.0\Visual Studio Outro.AssemblyInfoInputs.cache
+D:\Users\20241170150014\OneDrive - IFRN\Visual Studio Outro\obj\Debug\net8.0\Visual Studio Outro.AssemblyInfo.cs
+D:\Users\20241170150014\OneDrive - IFRN\Visual Studio Outro\obj\Debug\net8.0\Visual Studio Outro.csproj.CoreCompileInputs.cache
+D:\Users\20241170150014\OneDrive - IFRN\Visual Studio Outro\obj\Debug\net8.0\Visual Studio Outro.dll
+D:\Users\20241170150014\OneDrive - IFRN\Visual Studio Outro\obj\Debug\net8.0\refint\Visual Studio Outro.dll
+D:\Users\20241170150014\OneDrive - IFRN\Visual Studio Outro\obj\Debug\net8.0\Visual Studio Outro.pdb
+D:\Users\20241170150014\OneDrive - IFRN\Visual Studio Outro\obj\Debug\net8.0\Visual Studio Outro.genruntimeconfig.cache
+D:\Users\20241170150014\OneDrive - IFRN\Visual Studio Outro\obj\Debug\net8.0\ref\Visual Studio Outro.dll

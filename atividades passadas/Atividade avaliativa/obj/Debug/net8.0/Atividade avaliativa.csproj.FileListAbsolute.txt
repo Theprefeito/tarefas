@@ -1,0 +1,14 @@
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\Atividade avaliativa\bin\Debug\net8.0\Atividade avaliativa.exe
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\Atividade avaliativa\bin\Debug\net8.0\Atividade avaliativa.deps.json
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\Atividade avaliativa\bin\Debug\net8.0\Atividade avaliativa.runtimeconfig.json
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\Atividade avaliativa\bin\Debug\net8.0\Atividade avaliativa.dll
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\Atividade avaliativa\bin\Debug\net8.0\Atividade avaliativa.pdb
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\Atividade avaliativa\obj\Debug\net8.0\Atividade avaliativa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\Atividade avaliativa\obj\Debug\net8.0\Atividade avaliativa.AssemblyInfoInputs.cache
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\Atividade avaliativa\obj\Debug\net8.0\Atividade avaliativa.AssemblyInfo.cs
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\Atividade avaliativa\obj\Debug\net8.0\Atividade avaliativa.csproj.CoreCompileInputs.cache
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\Atividade avaliativa\obj\Debug\net8.0\Atividade avaliativa.dll
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\Atividade avaliativa\obj\Debug\net8.0\refint\Atividade avaliativa.dll
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\Atividade avaliativa\obj\Debug\net8.0\Atividade avaliativa.pdb
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\Atividade avaliativa\obj\Debug\net8.0\Atividade avaliativa.genruntimeconfig.cache
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\Atividade avaliativa\obj\Debug\net8.0\ref\Atividade avaliativa.dll

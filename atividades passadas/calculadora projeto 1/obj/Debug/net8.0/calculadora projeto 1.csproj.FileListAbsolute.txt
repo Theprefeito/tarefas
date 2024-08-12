@@ -1,0 +1,14 @@
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\calculadora projeto 1\bin\Debug\net8.0\calculadora projeto 1.exe
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\calculadora projeto 1\bin\Debug\net8.0\calculadora projeto 1.deps.json
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\calculadora projeto 1\bin\Debug\net8.0\calculadora projeto 1.runtimeconfig.json
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\calculadora projeto 1\bin\Debug\net8.0\calculadora projeto 1.dll
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\calculadora projeto 1\bin\Debug\net8.0\calculadora projeto 1.pdb
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\calculadora projeto 1\obj\Debug\net8.0\calculadora projeto 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\calculadora projeto 1\obj\Debug\net8.0\calculadora projeto 1.AssemblyInfoInputs.cache
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\calculadora projeto 1\obj\Debug\net8.0\calculadora projeto 1.AssemblyInfo.cs
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\calculadora projeto 1\obj\Debug\net8.0\calculadora projeto 1.csproj.CoreCompileInputs.cache
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\calculadora projeto 1\obj\Debug\net8.0\calculadora projeto 1.dll
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\calculadora projeto 1\obj\Debug\net8.0\refint\calculadora projeto 1.dll
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\calculadora projeto 1\obj\Debug\net8.0\calculadora projeto 1.pdb
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\calculadora projeto 1\obj\Debug\net8.0\calculadora projeto 1.genruntimeconfig.cache
+D:\Users\20241170150014\OneDrive - IFRN\Visual studio\calculadora projeto 1\obj\Debug\net8.0\ref\calculadora projeto 1.dll
